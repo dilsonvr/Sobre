@@ -4,10 +4,10 @@
 - Criar um site intuitivo para falar sobre mim e mostrar os meus poucos projetos
 
 # Camadas 📚
-`olá`: Saudação
-`sobre`: Breve biografia a falar sobre mim
-`projetos`: Meus repositórios do github
-`redes sociais`: Redes sociais que uso 
+- `olá`: Saudação
+- `sobre`: Breve biografia a falar sobre mim
+- `projetos`: Meus repositórios do github
+- `redes sociais`: Redes sociais que uso 
 
 # Tecnologias 💻
 - HTML, CSS, JS
